@@ -1,0 +1,3 @@
+:- module(nivelAnsiedade).
+
+nivelAnsiedade(E, 1).
